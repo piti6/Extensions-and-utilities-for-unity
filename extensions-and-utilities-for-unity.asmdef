@@ -1,0 +1,22 @@
+{
+    "name": "ExtensionsAndUtilitiesforunity",
+    "rootNamespace": "",
+    "references": [
+        "UniRx"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.neuecc.unirx",
+            "expression": "",
+            "define": "UNIRX"
+        }
+    ],
+    "noEngineReferences": false
+}
